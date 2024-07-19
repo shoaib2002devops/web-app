@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: web-app
-  tag: "1"
+  tag: "2"
   pullPolicy: IfNotPresent
 
 service:
